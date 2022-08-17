@@ -1,4 +1,10 @@
-# todo-list-app-cotil
 
--- npm i
--- npm run dev
+# TODO List using zustand 
+
+
+
+## How to get started
+
+- npm i
+
+- npm run dev
